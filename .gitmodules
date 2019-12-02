@@ -4,3 +4,6 @@
 [submodule "free-books"]
 	path = free-books
 	url = https://github.com/ruanyf/free-books.git
+[submodule "microfrontends"]
+	path = microfrontends
+	url = https://github.com/phodal/microfrontends.git
